@@ -14,8 +14,8 @@ comments: true
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
 			{{- content -}}
-			<hr>
 	  </div>
+
 {% if page.comments != false %}
   {% include disqus_comments.html %}
  {% endif %}
