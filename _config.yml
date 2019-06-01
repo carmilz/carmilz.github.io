@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CarMilZ's Space
-subtitle: Welcome to the CarMilZ's Space!
+subtitle: Welcome!
 description: >- # this means to ignore newlines until "baseurl:"
   This site is the CarMilZ's website.
 author: CarMilZ

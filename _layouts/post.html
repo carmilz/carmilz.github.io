@@ -13,7 +13,8 @@ comments: true
 				<h2>{{- page.title -}}</h2>
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
-	    {{- content -}}
+			{{- content -}}
+			<hr>
 	  </div>
 {% if page.comments != false %}
   {% include disqus_comments.html %}
