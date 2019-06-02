@@ -1,8 +1,8 @@
 # Site
 title:              CarMilZ's Space
 bio:                'Computer is Love, Computer is Life'
-description:        "This site is the CarMilZ's website."
-reading_time:       true
+description:        "© 2019 CarMilZ."
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/bg.jpg'
