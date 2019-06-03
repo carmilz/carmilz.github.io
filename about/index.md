@@ -14,6 +14,6 @@ comments: true
 
 <i class="fa fa-fw fa-envelope-square"></i>: [oh44874308@gmail.com](mailto:oh44874308@gmail.com)
 
-Discord: CarMilZ#8025
+<i class="fa fa-fw fa-discord"></i>: CarMilZ#8025
 
 <i class="fa fa-fw fa-github"></i>: [CarMilZ](https://github.com/carmilz)
