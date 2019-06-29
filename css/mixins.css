@@ -10,8 +10,8 @@
   -o-background-size: cover;
 }
 .serif {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Noto Serif CJK KR', 'Noto Serif CJK JP', 'Noto Serif CJK TC', 'Noto Serif CJK SC', 'Lora', 'Times New Roman', serif;
 }
 .sans-serif {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP', 'Noto Sans CJK TC', 'Noto Sans CJK SC', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
