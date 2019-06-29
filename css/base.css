@@ -11,11 +11,11 @@
   -o-background-size: cover;
 }
 .serif,
-body,
 .intro-header .post-heading .meta {
   font-family: 'Noto Serif CJK KR', 'Noto Serif CJK JP', 'Noto Serif CJK TC', 'Noto Serif CJK SC', 'Lora', 'Times New Roman', serif;
 }
 .sans-serif,
+body,
 h1,
 h2,
 h3,
