@@ -4,17 +4,22 @@
 
     <sitemap>
         <loc>http://carmilz.github.io/post-sitemap.xml</loc>
-        <lastmod>2019-07-02T11:13:58.888Z</lastmod>
+        <lastmod>2019-07-03T09:33:23.966Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://carmilz.github.io/page-sitemap.xml</loc>
-        <lastmod>2019-07-02T13:48:05.969Z</lastmod>
+        <lastmod>2019-07-03T10:06:40.108Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://carmilz.github.io/category-sitemap.xml</loc>
+        <lastmod>2019-07-03T09:33:23.966Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://carmilz.github.io/tag-sitemap.xml</loc>
-        <lastmod>2019-07-02T11:13:58.888Z</lastmod>
+        <lastmod>2019-07-03T09:33:23.966Z</lastmod>
     </sitemap>
 
 </sitemapindex>
