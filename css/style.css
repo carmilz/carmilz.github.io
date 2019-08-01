@@ -1186,10 +1186,12 @@ a.article-title:hover {
   font-weight: 600;
   border-bottom: 3px solid #ddd;
   padding-bottom: 0.5em;
+  text-align: center;
 }
 .article-entry td {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
+  text-align: center;
 }
 .article-entry blockquote {
   color: #777;
