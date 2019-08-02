@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/sae-lang/jahyeong/</loc>
+        <lastmod>2019-08-02T12:31:56.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/sae-lang/</loc>
         <lastmod>2019-08-02T10:08:22.419Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +24,6 @@
     <url>
         <loc>http://carmilz.github.io/sae-lang/changelog/</loc>
         <lastmod>2019-08-02T10:03:15.134Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/sae-lang/jahyeong/</loc>
-        <lastmod>2019-08-02T10:01:21.982Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
