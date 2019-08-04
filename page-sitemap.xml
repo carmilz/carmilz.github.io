@@ -8,15 +8,22 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/sae-lang/words/</loc>
+        <lastmod>2019-08-04T11:47:51.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/sae-lang/</loc>
-        <lastmod>2019-08-03T12:40:50.990Z</lastmod>
+        <lastmod>2019-08-04T11:43:44.505Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/sae-lang/changelog/</loc>
-        <lastmod>2019-08-03T10:02:43.340Z</lastmod>
+        <lastmod>2019-08-04T09:33:19.104Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -24,13 +31,6 @@
     <url>
         <loc>http://carmilz.github.io/sae-lang/jahyeong/</loc>
         <lastmod>2019-08-03T08:30:10.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/sae-lang/words/</loc>
-        <lastmod>2019-08-02T02:57:57.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
