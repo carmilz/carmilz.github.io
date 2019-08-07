@@ -19,15 +19,15 @@
 }
 .widget h1,
 .article-entry h1 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .widget h2,
 .article-entry h2 {
-  font-size: 1.5em;
+  font-size: 1.6em;
 }
 .widget h3,
 .article-entry h3 {
-  font-size: 1.3em;
+  font-size: 1.4em;
 }
 .widget h4,
 .article-entry h4 {
@@ -39,7 +39,7 @@
 }
 .widget h6,
 .article-entry h6 {
-  font-size: 1em;
+  font-size: 0.8em;
   color: #aaa;
 }
 .widget hr,
@@ -75,7 +75,7 @@
 }
 .widget small,
 .article-entry small {
-  font-size: 0.85em;
+  font-size: 0.68em;
 }
 .widget acronym,
 .article-entry acronym,
