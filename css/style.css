@@ -343,6 +343,9 @@ code {
 #main .main-body-content:after {
   clear: both;
 }
+.sip {
+  font-family: HanaMinB, HanaMinA, HanaMin, Hanazono Mincho B, Hanazono Mincho A, MingLiU-ExtA, MingLiU-ExtB, PMingLiU-ExtB, MingLiU_HKSCS-ExtB, SimSun-ExtB, SimSun-18030, serif;
+}
 #header {
   background: #26272b;
   padding-bottom: 60px;
