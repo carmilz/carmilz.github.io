@@ -9,14 +9,21 @@
     
     <url>
         <loc>http://carmilz.github.io/xasae-lang/</loc>
-        <lastmod>2019-08-22T09:45:33.411Z</lastmod>
+        <lastmod>2019-08-22T10:58:14.186Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/xasae-lang/changelog/</loc>
-        <lastmod>2019-08-22T09:18:55.446Z</lastmod>
+        <lastmod>2019-08-22T10:55:39.125Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/xasae-lang/universe/</loc>
+        <lastmod>2019-08-22T10:54:47.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
