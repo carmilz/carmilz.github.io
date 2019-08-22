@@ -8,15 +8,22 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/</loc>
-        <lastmod>2019-08-20T11:40:14.949Z</lastmod>
+        <loc>http://carmilz.github.io/xasae-lang/changelog/</loc>
+        <lastmod>2019-08-22T09:18:55.446Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/changelog/</loc>
-        <lastmod>2019-08-20T11:27:51.390Z</lastmod>
+        <loc>http://carmilz.github.io/xasae-lang/</loc>
+        <lastmod>2019-08-22T09:18:12.336Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/xasae-lang/pyogibeop/</loc>
+        <lastmod>2019-08-22T09:13:30.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -38,13 +45,6 @@
     <url>
         <loc>http://carmilz.github.io/about/</loc>
         <lastmod>2019-07-15T08:46:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/portfolio/</loc>
-        <lastmod>2019-07-15T08:39:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
