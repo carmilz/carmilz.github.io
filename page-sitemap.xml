@@ -8,15 +8,29 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/xasae-lang/pyogibeop/</loc>
+        <lastmod>2019-08-29T11:50:25.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/xasae-lang/changelog/</loc>
-        <lastmod>2019-08-24T10:35:50.553Z</lastmod>
+        <lastmod>2019-08-29T11:48:33.274Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/xasae-lang/jahyeong/</loc>
+        <lastmod>2019-08-29T11:45:18.684Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/xasae-lang/</loc>
-        <lastmod>2019-08-24T10:35:50.553Z</lastmod>
+        <lastmod>2019-08-29T11:42:18.098Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -24,13 +38,6 @@
     <url>
         <loc>http://carmilz.github.io/xasae-lang/universe/lang-history/</loc>
         <lastmod>2019-08-24T10:34:39.695Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/xasae-lang/pyogibeop/</loc>
-        <lastmod>2019-08-24T08:54:48.903Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -45,13 +52,6 @@
     <url>
         <loc>http://carmilz.github.io/xasae-lang/words/</loc>
         <lastmod>2019-08-23T11:49:44.913Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/xasae-lang/jahyeong/</loc>
-        <lastmod>2019-08-23T11:49:44.905Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
