@@ -8,78 +8,92 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/pyogibeop/</loc>
-        <lastmod>2019-08-29T11:50:25.736Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
+        <lastmod>2019-08-31T06:11:05.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/changelog/</loc>
-        <lastmod>2019-08-29T11:48:33.274Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
+        <lastmod>2019-08-31T06:07:04.850Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/jahyeong/</loc>
-        <lastmod>2019-08-29T11:45:18.684Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasmi-lang/</loc>
+        <lastmod>2019-08-31T06:05:24.593Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/</loc>
-        <lastmod>2019-08-29T11:42:18.098Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/example/</loc>
+        <lastmod>2019-08-31T06:04:33.536Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/lang-history/</loc>
-        <lastmod>2019-08-24T10:34:39.695Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2019-08-31T05:33:31.214Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/</loc>
-        <lastmod>2019-08-24T08:51:25.522Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/ancient/</loc>
+        <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/words/</loc>
-        <lastmod>2019-08-23T11:49:44.913Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/middle/</loc>
+        <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/now/</loc>
-        <lastmod>2019-08-23T11:46:19.183Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/modern/</loc>
+        <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/modern/</loc>
-        <lastmod>2019-08-23T11:46:19.183Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/now/</loc>
+        <lastmod>2019-08-31T05:26:54.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/ancient/</loc>
-        <lastmod>2019-08-23T11:46:19.180Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
+        <lastmod>2019-08-31T05:26:08.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/xasae-lang/universe/middle/</loc>
-        <lastmod>2019-08-23T11:46:19.180Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/pyogibeop/</loc>
+        <lastmod>2019-08-31T05:24:09.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
+        <lastmod>2019-08-31T05:24:09.731Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/words/</loc>
+        <lastmod>2019-08-31T05:24:09.730Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
