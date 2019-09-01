@@ -9,7 +9,7 @@
     
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/example/</loc>
-        <lastmod>2019-09-01T06:12:36.819Z</lastmod>
+        <lastmod>2019-09-01T06:18:46.385Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -64,14 +64,14 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/middle/</loc>
+        <loc>http://carmilz.github.io/mixasae/ancient/</loc>
         <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/ancient/</loc>
+        <loc>http://carmilz.github.io/mixasae/middle/</loc>
         <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
