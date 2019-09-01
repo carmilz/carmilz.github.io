@@ -9,14 +9,28 @@
     
     <url>
         <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-08-31T11:04:38.847Z</lastmod>
+        <lastmod>2019-09-01T04:15:33.441Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
+        <lastmod>2019-09-01T04:13:43.111Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2019-09-01T04:09:19.205Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-08-31T11:03:19.115Z</lastmod>
+        <lastmod>2019-09-01T03:58:24.223Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -31,13 +45,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/pyogibeop/</loc>
         <lastmod>2019-08-31T10:59:39.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/</loc>
-        <lastmod>2019-08-31T10:34:08.878Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -64,14 +71,14 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/middle/</loc>
+        <loc>http://carmilz.github.io/mixasae/modern/</loc>
         <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/modern/</loc>
+        <loc>http://carmilz.github.io/mixasae/middle/</loc>
         <lastmod>2019-08-31T05:26:54.250Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -80,13 +87,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/now/</loc>
         <lastmod>2019-08-31T05:26:54.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
-        <lastmod>2019-08-31T05:26:08.426Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
