@@ -8,36 +8,36 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/example/</loc>
-        <lastmod>2019-09-01T06:53:24.930Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2019-09-03T12:17:15.629Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-09-01T04:15:33.441Z</lastmod>
+        <lastmod>2019-09-03T12:17:15.629Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
-        <lastmod>2019-09-01T04:13:43.111Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/</loc>
-        <lastmod>2019-09-01T04:09:19.205Z</lastmod>
+        <lastmod>2019-09-03T12:15:05.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-09-01T03:58:24.223Z</lastmod>
+        <lastmod>2019-09-03T12:15:05.805Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/example/</loc>
+        <lastmod>2019-09-01T06:53:24.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
