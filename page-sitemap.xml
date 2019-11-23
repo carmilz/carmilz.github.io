@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
+        <lastmod>2019-11-23T12:56:56.044Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/mixasae/changelog/</loc>
         <lastmod>2019-11-23T07:03:17.125Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,13 +66,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/words/</loc>
         <lastmod>2019-11-23T06:36:54.589Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-11-23T06:26:18.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
