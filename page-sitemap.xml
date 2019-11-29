@@ -8,6 +8,20 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
+        <lastmod>2019-11-29T12:24:16.685Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
+        <lastmod>2019-11-29T12:19:42.823Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/mixasae/</loc>
         <lastmod>2019-11-29T09:41:25.363Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,13 +52,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/sound/</loc>
         <lastmod>2019-11-29T09:16:34.427Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-11-29T09:12:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -94,13 +101,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/pyogibeop/</loc>
         <lastmod>2019-08-31T10:59:39.689Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
-        <lastmod>2019-08-31T05:24:09.731Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
