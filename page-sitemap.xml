@@ -8,8 +8,29 @@
     </url>
     
     <url>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2019-11-30T08:00:36.010Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-11-30T04:10:26.581Z</lastmod>
+        <lastmod>2019-11-30T07:58:10.033Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
+        <lastmod>2019-11-30T07:57:08.141Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
+        <lastmod>2019-11-30T07:54:50.424Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -31,20 +52,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/words/</loc>
         <lastmod>2019-11-30T04:03:03.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/</loc>
-        <lastmod>2019-11-30T02:26:37.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-11-30T02:18:04.948Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -73,13 +80,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/kirikasumi-lang/</loc>
         <lastmod>2019-11-23T06:55:44.328Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/history/</loc>
-        <lastmod>2019-11-23T06:44:06.103Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
