@@ -9,7 +9,14 @@
     
     <url>
         <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-12-04T08:41:59.328Z</lastmod>
+        <lastmod>2019-12-04T11:57:54.963Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
+        <lastmod>2019-12-04T11:57:05.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -17,13 +24,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/</loc>
         <lastmod>2019-12-04T08:41:16.303Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-12-04T08:40:34.373Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
