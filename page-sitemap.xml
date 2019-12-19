@@ -8,29 +8,36 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-12-07T07:00:20.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/</loc>
-        <lastmod>2019-12-07T06:59:13.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/</loc>
-        <lastmod>2019-12-07T06:58:23.804Z</lastmod>
+        <lastmod>2019-12-19T08:43:37.853Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/words/</loc>
+        <lastmod>2019-12-19T08:42:42.788Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/sound/</loc>
-        <lastmod>2019-12-07T04:40:09.023Z</lastmod>
+        <lastmod>2019-12-19T08:42:30.226Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2019-12-19T08:36:34.780Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
+        <lastmod>2019-12-19T08:36:34.780Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -52,13 +59,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
         <lastmod>2019-11-30T04:08:21.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/words/</loc>
-        <lastmod>2019-11-30T04:03:03.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
