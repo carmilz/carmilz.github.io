@@ -8,15 +8,29 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/</loc>
-        <lastmod>2019-12-24T07:06:34.889Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
+        <lastmod>2020-02-09T09:00:47.591Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/changelog/</loc>
-        <lastmod>2019-12-24T07:06:34.889Z</lastmod>
+        <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
+        <lastmod>2020-02-09T08:57:40.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/xasae-cont/</loc>
+        <lastmod>2020-02-09T08:55:35.370Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixasae/</loc>
+        <lastmod>2020-02-09T08:51:45.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -57,13 +71,6 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixasae/xasae-lang/jahyeong/</loc>
-        <lastmod>2019-11-30T04:08:21.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://carmilz.github.io/mixasae/xasae-lang/saeze/</loc>
         <lastmod>2019-11-29T09:35:00.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,13 +80,6 @@
     <url>
         <loc>http://carmilz.github.io/mixasae/xasmi-lang/</loc>
         <lastmod>2019-11-24T04:26:14.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://carmilz.github.io/mixasae/mixasae-gok/</loc>
-        <lastmod>2019-11-23T06:56:01.300Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
