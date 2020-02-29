@@ -8,28 +8,28 @@
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixas%C3%A9/changelog/</loc>
-        <lastmod>2020-02-21T05:41:44.797Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://carmilz.github.io/mixas%C3%A9/</loc>
-        <lastmod>2020-02-21T05:41:07.626Z</lastmod>
+        <lastmod>2020-02-29T13:07:05.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://carmilz.github.io/mixas%C3%A9/xas%C3%A9-lang/history/</loc>
-        <lastmod>2020-02-21T05:37:24.117Z</lastmod>
+        <loc>http://carmilz.github.io/mixas%C3%A9/changelog/</loc>
+        <lastmod>2020-02-29T13:07:05.653Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://carmilz.github.io/mixas%C3%A9/xas%C3%A9-lang/example/</loc>
+        <lastmod>2020-02-21T05:37:24.117Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://carmilz.github.io/mixas%C3%A9/xas%C3%A9-lang/history/</loc>
         <lastmod>2020-02-21T05:37:24.117Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
