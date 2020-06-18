@@ -349,6 +349,9 @@ code {
 .ipa {
   font-family: 'Times New Roman', 'Gentium Plus', Times, serif;
 }
+.kandzi {
+  line-height: 0.5;
+}
 #header {
   background: #26272b;
   padding-bottom: 60px;
