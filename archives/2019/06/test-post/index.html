@@ -23,7 +23,7 @@
 <meta property="og:description" content="이 포스트는 테스트 포스트입니다. 글꼴 테스트볼드 이탤릭 밑줄 취소선 E=mc2 H2O 작은 텍스트 漢字(かんじ) 각주[1] 한자 테스트왼쪽에서부터 한국, 일본, 대만, 중국입니다. 접속 환경에 따라 각 나라 자형대로 표시되지 않을 수 있습니다. 社 社 社 社 (모일 사) 道 道 道 道 (길 도) 消 消 消 消 (사라질 소) 花 花 花 花 (꽃 화) 코드">
 <meta property="og:locale" content="ko">
 <meta property="og:image" content="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg">
-<meta property="og:updated_time" content="2019-08-09T06:13:27.093Z">
+<meta property="og:updated_time" content="2020-07-25T09:19:19.663Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="test-post">
 <meta name="twitter:description" content="이 포스트는 테스트 포스트입니다. 글꼴 테스트볼드 이탤릭 밑줄 취소선 E=mc2 H2O 작은 텍스트 漢字(かんじ) 각주[1] 한자 테스트왼쪽에서부터 한국, 일본, 대만, 중국입니다. 접속 환경에 따라 각 나라 자형대로 표시되지 않을 수 있습니다. 社 社 社 社 (모일 사) 道 道 道 道 (길 도) 消 消 消 消 (사라질 소) 花 花 花 花 (꽃 화) 코드">
@@ -36,8 +36,6 @@
         <link rel="shortcut icon" href="/favicon.ico">
         <link rel="icon" href="/favicon.ico">
     
-
-    <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding:400,700&display=swap&subset=korean" rel="stylesheet">
 
     <link rel="stylesheet" href="/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="/libs/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -67,6 +65,22 @@ ga('send', 'pageview');
     
     
 
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css" integrity="sha384-TEMocfGvRuD1rIAacqrknm5BQZ7W7uWitoih+jMNFXQIbNl16bO8OZmylH/Vi/Ei" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js" integrity="sha384-jmxIlussZWB7qCuB+PgKG1uLjjxbVVIayPJwi6cG6Zb4YKq0JIw+OMnkkEC7kYCq" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/contrib/auto-render.min.js" integrity="sha384-IiI65aU9ZYub2MY9zhtKd1H2ps7xxf+eb2YFG9lX6uRqpXCvBTOidPRCXCrQ++Uc" crossorigin="anonymous"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            renderMathInElement(document.body, {
+                delimiters: [ 
+                    {left: "$$", right: "$$", display: true},
+                    {left: "//[", right: "//]", display: true},
+                    {left: "//(", right: "//)", display: false}
+                ]
+            });
+        });
+    </script>
 
     
     <meta name="google-site-verification" content="5abTkhs5wf0fhqyFf_aaP756DdqzsfcIW7fhBLPB4YU"><!-- hexo-inject:begin --><!-- hexo-inject:end -->
@@ -210,9 +224,8 @@ ga('send', 'pageview');
 
 <h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><script src="//gist.github.com/098f18fc21db7020f6f43882c2086eac.js"></script>
 
-<h2 id="MathJax"><a href="#MathJax" class="headerlink" title="MathJax"></a>MathJax</h2><p>$ x^2+4x+4=(x+2)^2 $ &lt;- 왼쪽이 인라인 모드</p>
-<p>아래는 디스플레이 모드</p>
-<p>$$ x^2+6x+9=(x+3)^2 $$</p>
+<h2 id="KaTeX"><a href="#KaTeX" class="headerlink" title="//( {\KaTeX} //)"></a>//( {\KaTeX} //)</h2><p>$$ \int_{0}^{1} f(x) dx = \Bigl[ F(x) \Bigr]^{1}_{0} = F(1) - F(0) $$</p>
+<p>//( \displaystyle \sum_{n=1}^\infty \frac{9}{10^n} = 1 //) ← 인라인</p>
 <h2 id="유튜브-동영상"><a href="#유튜브-동영상" class="headerlink" title="유튜브 동영상"></a>유튜브 동영상</h2><div class="video-container"><iframe src="//www.youtube.com/embed/GW-hmrIbLcs" frameborder="0" allowfullscreen></iframe></div>
 
 <h2 id="표-테스트"><a href="#표-테스트" class="headerlink" title="표 테스트"></a>표 테스트</h2><table>
@@ -251,7 +264,7 @@ ga('send', 'pageview');
 
 
 
-    <a data-url="http://carmilz.github.io/archives/2019/06/test-post/" data-id="ckcq461q60002ekxs2p9jeps7" class="article-share-link"><i class="fa fa-share"></i>공유</a>
+    <a data-url="http://carmilz.github.io/archives/2019/06/test-post/" data-id="ckd1g2u8y000260xsu6kcobvr" class="article-share-link"><i class="fa fa-share"></i>공유</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -327,7 +340,7 @@ ga('send', 'pageview');
         "genre": "Etc",
         "datePublished": "2019-06-29",
         "dateCreated": "2019-06-29",
-        "dateModified": "2019-08-09",
+        "dateModified": "2020-07-25",
         "url": "http://carmilz.github.io/archives/2019/06/test-post/",
         "description": "
 이 포스트는 테스트 포스트입니다.
@@ -338,7 +351,7 @@ ga('send', 'pageview');
 消 消 消 消 (사라질 소)
 花 花 花 花 (꽃 화)
 코드"
-        "wordCount": 246
+        "wordCount": 260
     }
 </script>
 
@@ -525,11 +538,6 @@ ga('send', 'pageview');
     
         <script src="/libs/justified-gallery/jquery.justifiedGallery.min.js"></script>
     
-    
-        <script type="text/x-mathjax-config">
-            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
-        </script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     
 
 
