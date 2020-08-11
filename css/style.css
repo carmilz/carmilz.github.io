@@ -352,6 +352,9 @@ code {
 .kandzi {
   line-height: 0.5;
 }
+.kasai {
+  font-family: 'Kosugi Maru', sans-serif;
+}
 #header {
   background: #26272b;
   padding-bottom: 60px;
