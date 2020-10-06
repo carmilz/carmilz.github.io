@@ -230,7 +230,7 @@ body,
 }
 body {
   background: #eaeaea;
-  font: 14px "Titillium Web", source-han-sans-korean, "Noto Sans CJK KR", sans-serif;
+  font: 14px "Titillium Web", "본고딕", "Noto Sans CJK KR", source-han-sans-korean, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 code {
@@ -239,7 +239,7 @@ code {
   padding: 3px 5px;
   font-size: 0.8em;
   border-radius: 2px;
-  font-family: "Nanum Gothic Coding", "Source Code Pro", Consolas, Monaco, Menlo, monospace;
+  font-family: "Source Code Pro", "Nanum Gothic Coding", Consolas, Monaco, Menlo, monospace;
   background-color: #f8f8f8;
 }
 .container {
@@ -356,19 +356,19 @@ code {
   font-family: 'Kosugi', sans-serif;
 }
 [lang|=ko] {
-  font-family: source-han-sans-korean, "Noto Sans CJK KR";
+  font-family: "본고딕", "Noto Sans CJK KR", source-han-sans-korean;
 }
 [lang|=ja] {
-  font-family: source-han-sans-japanese, "Noto Sans CJK JP";
+  font-family: "Source Han Sans", "Noto Sans CJK JP", source-han-sans-japanese;
 }
 [lang|=zh] {
-  font-family: source-han-sans-simplified-c, "Noto Sans CJK SC";
+  font-family: "Source Han Sans SC", "Noto Sans CJK SC", source-han-sans-simplified-c;
 }
 [lang|=zh-tw] {
-  font-family: source-han-sans-traditional, "Noto Sans CJK TC";
+  font-family: "Source Han Sans TC", "Noto Sans CJK TC", source-han-sans-traditional;
 }
 [lang|=zh-cn] {
-  font-family: source-han-sans-simplified-c, "Noto Sans CJK TC";
+  font-family: "Source Han Sans SC", "Noto Sans CJK SC", source-han-sans-simplified-c;
 }
 #header {
   background: #26272b;
@@ -560,7 +560,7 @@ code {
   -moz-transition: 0.2s ease-in;
   -ms-transition: 0.2s ease-in;
   transition: 0.2s ease-in;
-  font: 16px "Titillium Web", source-han-sans-korean, "Noto Sans CJK KR", sans-serif;
+  font: 16px "Titillium Web", "본고딕", "Noto Sans CJK KR", source-han-sans-korean, sans-serif;
   color: rgba(255,255,255,0.7);
 }
 .search-form-input:focus,
@@ -1242,7 +1242,7 @@ a.article-title:hover {
 .article-entry blockquote footer {
   font-size: 14px;
   margin: 1.6em 0;
-  font-family: "Titillium Web", source-han-sans-korean, "Noto Sans CJK KR", sans-serif;
+  font-family: "Titillium Web", "본고딕", "Noto Sans CJK KR", source-han-sans-korean, sans-serif;
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -1354,7 +1354,7 @@ a.article-title:hover {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  font: 14px "Titillium Web", source-han-sans-korean, "Noto Sans CJK KR", sans-serif;
+  font: 14px "Titillium Web", "본고딕", "Noto Sans CJK KR", source-han-sans-korean, sans-serif;
   padding: 0 15px;
   color: #555;
   outline: none;
@@ -1850,7 +1850,7 @@ i.icon:before {
   overflow-x: auto;
   padding: 15px 20px;
   font-size: 14px;
-  font-family: "Nanum Gothic Coding", "Source Code Pro", Consolas, Monaco, Menlo, monospace;
+  font-family: "Source Code Pro", "Nanum Gothic Coding", Consolas, Monaco, Menlo, monospace;
   line-height: 22.400000000000002px;
 }
 .highlight table {
