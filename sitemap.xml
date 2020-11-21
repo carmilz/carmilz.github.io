@@ -3,22 +3,22 @@
 
 
     <sitemap>
-        <loc>http://carmilz.github.io/post-sitemap.xml</loc>
+        <loc>https://carmilz.github.io/post-sitemap.xml</loc>
         <lastmod>2020-08-26T05:21:41.704Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://carmilz.github.io/page-sitemap.xml</loc>
-        <lastmod>2020-11-21T07:18:45.970Z</lastmod>
+        <loc>https://carmilz.github.io/page-sitemap.xml</loc>
+        <lastmod>2020-11-21T08:07:14.760Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://carmilz.github.io/category-sitemap.xml</loc>
+        <loc>https://carmilz.github.io/category-sitemap.xml</loc>
         <lastmod>2020-08-26T05:21:41.704Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://carmilz.github.io/tag-sitemap.xml</loc>
+        <loc>https://carmilz.github.io/tag-sitemap.xml</loc>
         <lastmod>2020-08-26T05:21:41.704Z</lastmod>
     </sitemap>
 
