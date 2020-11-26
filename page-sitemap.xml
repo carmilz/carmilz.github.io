@@ -9,7 +9,21 @@
     
     <url>
         <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/%ED%95%98%EC%84%B8%EC%96%B4/%ED%95%9C%EC%9E%90/%EC%8B%A0%EC%9E%90%EC%B2%B4/</loc>
-        <lastmod>2020-11-25T10:28:02.785Z</lastmod>
+        <lastmod>2020-11-26T03:09:38.753Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/%ED%95%98%EC%84%B8%EC%96%B4/%EB%8B%A8%EC%96%B4/</loc>
+        <lastmod>2020-11-26T01:39:43.906Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/%ED%95%98%EC%84%B8%EC%96%B4/%ED%95%9C%EC%9E%90/%EC%88%99%EC%9E%90%ED%9B%88/</loc>
+        <lastmod>2020-11-26T01:35:13.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -36,22 +50,8 @@
     </url>
     
     <url>
-        <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/%ED%95%98%EC%84%B8%EC%96%B4/%EB%8B%A8%EC%96%B4/</loc>
-        <lastmod>2020-11-23T04:38:59.170Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/</loc>
         <lastmod>2020-11-19T09:53:46.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://carmilz.github.io/%EB%AF%B8%ED%95%98%EC%84%B8/%ED%95%98%EC%84%B8%EC%96%B4/%ED%95%9C%EC%9E%90/%EC%88%99%EC%9E%90%ED%9B%88/</loc>
-        <lastmod>2020-06-17T08:19:48.518Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
