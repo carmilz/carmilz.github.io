@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "@(CarMilZ);"
+title                    : "카밀즈의 공방"
 title_separator          : "|"
 subtitle                 : "각종 잡다한 것들"
 name                     : "Hyeongeun Oh"
@@ -26,7 +26,7 @@ baseurl                  :
 repository               : https://github.com/carmilz/carmilz.github.io
 teaser                   : 
 logo                     : 
-masthead_title           : "카밀즈의 공방"
+masthead_title           : "@(CarMilZ);"
 # breadcrumbs            : false # true, false (default)
 date_format              : "%Y. %-m. %-d."
 words_per_minute         : 200
