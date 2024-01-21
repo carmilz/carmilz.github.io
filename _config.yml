@@ -29,7 +29,6 @@ logo                     :
 masthead_title           : "@(CarMilZ);"
 # breadcrumbs            : false # true, false (default)
 date_format              : "%Y. %-m. %-d."
-search                   : true
 words_per_minute         : 200
 comments:
   provider               : giscus
@@ -49,7 +48,7 @@ comments:
     repo_id              : "R_kgDOLHkCzw"
     category_name        : "General"
     category_id          : "DIC_kwDOLHkCz84CckmU"
-    discussion_term      : "title"
+    discussion_term      : "url"
     reactions_enabled    : 1
     theme                : "dark"
   staticman:
@@ -61,11 +60,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : "lunr"
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -222,7 +221,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -296,6 +295,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
@@ -305,3 +305,4 @@ defaults:
       author_profile: true
       comments: true
       share: true
+      mathjax: true
