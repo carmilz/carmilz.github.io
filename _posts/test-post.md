@@ -1,0 +1,14 @@
+---
+title: "테스트"
+---
+테스트 글
+
+<span lang="ko">社</span> <span lang="ja">社</span> <span lang="zh-tw">社</span> <span lang="zh-cn">社</span> (모일 사)
+
+<span lang="ko">道</span> <span lang="ja">道</span> <span lang="zh-tw">道</span> <span lang="zh-cn">道</span> (길 도)
+
+<span lang="ko">消</span> <span lang="ja">消</span> <span lang="zh-tw">消</span> <span lang="zh-cn">消</span> (사라질 소)
+
+<span lang="ko">花</span> <span lang="ja">花</span> <span lang="zh-tw">花</span> <span lang="zh-cn">花</span> (꽃 화)
+
+<span class="kasai">社道消花</span>
