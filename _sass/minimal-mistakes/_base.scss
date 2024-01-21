@@ -2,6 +2,10 @@
    BASE ELEMENTS
    ========================================================================== */
 
+* {
+  font-family: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, HanaminA, HanaminB, cutra_AppendingToHanaMin, serif;
+}
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -338,4 +342,36 @@ input[type="submit"],
 .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+.exk {
+  font-family: HanaMinB, HanaMinA, HanaMin, Hanazono Mincho B, Hanazono Mincho A, MingLiU-ExtA, MingLiU-ExtB, PMingLiU-ExtB, MingLiU_HKSCS-ExtB, SimSun-ExtB, SimSun-18030, cutra_AppendingToHanaMin, serif;
+}
+
+.ipa {
+  font-family: 'Times New Roman', 'Gentium Plus', Times, serif;
+}
+
+.kasai {
+  font-family: 'Kosugi', sans-serif;
+}
+
+[lang|=ko] {
+  font-family: "본고딕", "Noto Sans CJK KR", source-han-sans-korean;
+}
+
+[lang|=ja] {
+  font-family: "Source Han Sans", "Noto Sans CJK JP", source-han-sans-japanese;
+}
+
+[lang|=zh] {
+  font-family: "Source Han Sans SC", "Noto Sans CJK SC", source-han-sans-simplified-c;
+}
+
+[lang|=zh-tw] {
+  font-family: "Source Han Sans TC", "Noto Sans CJK TC", source-han-sans-traditional;
+}
+
+[lang|=zh-cn] {
+  font-family: "Source Han Sans SC", "Noto Sans CJK SC", source-han-sans-simplified-c;
 }
