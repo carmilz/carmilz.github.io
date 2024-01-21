@@ -23,7 +23,7 @@ name                     : "Hyeongeun Oh"
 description              : "카밀즈의 공방에 오신 것을 환영합니다"
 url                      : "https://carmilz.github.io"
 baseurl                  : 
-repository               : https://github.com/carmilz/carmilz.github.io
+repository               : carmilz/carmilz.github.io
 teaser                   : 
 logo                     : 
 masthead_title           : "@(CarMilZ);"
