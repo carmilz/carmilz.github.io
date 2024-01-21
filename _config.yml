@@ -29,6 +29,7 @@ logo                     :
 masthead_title           : "@(CarMilZ);"
 # breadcrumbs            : false # true, false (default)
 date_format              : "%Y. %-m. %-d."
+search                   : true
 words_per_minute         : 200
 comments:
   provider               : giscus
