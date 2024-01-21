@@ -49,7 +49,7 @@ comments:
     repo_id              : "R_kgDOLHkCzw"
     category_name        : "General"
     category_id          : "DIC_kwDOLHkCz84CckmU"
-    discussion_term      : "url"
+    discussion_term      : "title"
     reactions_enabled    : 1
     theme                : "dark"
   staticman:
