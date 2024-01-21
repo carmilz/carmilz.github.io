@@ -1,5 +1,9 @@
 ---
 title: "테스트"
+categories:
+    - 테스트
+tags:
+    - 테스트
 ---
 테스트 글
 
