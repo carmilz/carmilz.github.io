@@ -158,6 +158,8 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 # IPA 글꼴
 이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 이 글꼴도 웹 폰트를 이용하였으므로 대부분의 환경에서는 정상적으로 나올 것입니다.
 
-Gentium 글꼴은 [이 링크(클릭)](https://software.sil.org/gentium/download/)에서 다운로드하실 수 있습니다.
+직접 설치하고 싶으신 분은 [이 링크(클릭)](https://software.sil.org/gentium/download/)에서 다운로드하실 수 있습니다.
 
-예시: <span class="ipa" style="font-size: x-large;">[𝼆𝼆𝼀ꞯ]</span>
+개발자 도구로 보고 싶으시면 태그 속성에 `class="ipa"`로 적용하시면 됩니다.
+
+예시: <span class="ipa" style="font-size: x-large;">[𝼅𝼆𝼀ꞯ]</span>
