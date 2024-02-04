@@ -92,23 +92,16 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 <span class="exk" style="font-size: 24px;">𮯰 𮰔 𮱏 𮱶 𮲐 𮲪 𮵏 𮷍</span>
 
 * **기타**
+
 <p class="exk" style="font-size: 24px;">龦 龧 龨 龩 龪 龫 龬 龭 龮 龯</p>
-
-龰 龱 龲 龳 龴 龵 龶 龷 龸 龹
-
-龺 龻 龼 龽 龾 龿 鿀 鿁 鿂 鿃
-
-鿄 鿅 鿆 鿇 鿈 鿉 鿊 鿋 鿌 鿍
-
-鿎 鿏 鿐 鿑 鿒 鿓 鿔 鿕 鿖 鿗
-
-鿘 鿙 鿚 鿛 鿜 鿝 鿞 鿟 鿠 鿡
-
-鿢 鿣 鿤 鿥 鿦 鿧 鿨 鿩 鿪 鿫
-
-鿬 鿭 鿮 鿯 鿰 鿱 鿲 鿳 鿴 鿵
-
-鿶 鿷 鿸 鿹 鿺 鿻 鿼 鿽 鿾 鿿
+<p class="exk" style="font-size: 24px;">龰 龱 龲 龳 龴 龵 龶 龷 龸 龹</p>
+<p class="exk" style="font-size: 24px;">龺 龻 龼 龽 龾 龿 鿀 鿁 鿂 鿃</p>
+<p class="exk" style="font-size: 24px;">鿄 鿅 鿆 鿇 鿈 鿉 鿊 鿋 鿌 鿍</p>
+<p class="exk" style="font-size: 24px;">鿎 鿏 鿐 鿑 鿒 鿓 鿔 鿕 鿖 鿗</p>
+<p class="exk" style="font-size: 24px;">鿘 鿙 鿚 鿛 鿜 鿝 鿞 鿟 鿠 鿡</p>
+<p class="exk" style="font-size: 24px;">鿢 鿣 鿤 鿥 鿦 鿧 鿨 鿩 鿪 鿫</p>
+<p class="exk" style="font-size: 24px;">鿬 鿭 鿮 鿯 鿰 鿱 鿲 鿳 鿴 鿵</p>
+<p class="exk" style="font-size: 24px;">鿶 鿷 鿸 鿹 鿺 鿻 鿼 鿽 鿾 鿿</p>
 
 # IPA 글꼴
 이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 설치되어 있지 않다면 기본 세리프 글꼴(윈도우는 Times New Roman)을 이용합니다.
