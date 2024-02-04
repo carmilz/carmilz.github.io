@@ -5,6 +5,7 @@ read_time: true
 toc: true
 toc_label: "목차"
 toc_sticky: true
+sitemap: true
 ---
 *마지막 수정: 2024. 2. 4.*
 

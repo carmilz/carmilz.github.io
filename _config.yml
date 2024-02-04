@@ -297,6 +297,7 @@ defaults:
       show_date: true
       mathjax: true
       toc: true
+      sitemap: true
       toc_label: "목차"
       toc_sticky: true
       sidebar:
