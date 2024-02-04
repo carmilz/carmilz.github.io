@@ -6,3 +6,10 @@ main:
     url: "/about-fonts/"
   - title: "About"
     url: "/about/"
+
+sidebar-category:
+  - title: "테스트"
+    children:
+      - title: "테스트"
+        url: "/test"
+        category: "테스트"
