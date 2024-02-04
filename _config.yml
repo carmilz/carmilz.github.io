@@ -296,6 +296,8 @@ defaults:
       related: true
       show_date: true
       mathjax: true
+      sidebar:
+        nav: "sidebar-category"
   # _pages
   - scope:
       path: "_pages"
@@ -306,3 +308,5 @@ defaults:
       comments: true
       share: true
       mathjax: true
+      sidebar:
+        nav: "sidebar-category"

@@ -11,5 +11,5 @@ sidebar-category:
   - title: "테스트"
     children:
       - title: "테스트"
-        url: "/test"
+        url: "/test/"
         category: "테스트"
