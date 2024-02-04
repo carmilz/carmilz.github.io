@@ -6,6 +6,8 @@ toc: true
 toc_label: "목차"
 toc_sticky: true
 ---
+*마지막 수정: 2024. 2. 4.*
+
 본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다.
 
 Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
@@ -19,6 +21,8 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 [본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans/tree/release), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
 
 혹시 Montserrat를 직접 설치하고 싶으시면 [링크(클릭)](https://fonts.google.com/specimen/Montserrat) 참조 바랍니다(Download Family 클릭).
+
+*****
 
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 위의 본고딕을 활용하고 있습니다. 본고딕을 설치하시지 않더라도 대부분의 환경에서는 정확한 글꼴로 출력될 것으로 예상하지만, 간혹 정상적으로 출력되지 않는 환경이 일부 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
