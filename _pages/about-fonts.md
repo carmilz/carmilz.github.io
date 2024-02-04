@@ -45,44 +45,54 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 ### 이 외의 글꼴로는...
 
 * **[cutra_AppendingToHanaMin](https://ko.glyphwiki.org/wiki/Group:cutra_AppendingToHanaMin)**
+
 하나조노의 확장판 격인 글꼴입니다(확장 C~H, URO+, 확장 A+, 확장 B+, 확장 C+ 영역 지원).
 
 * **[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)**
+
 하나조노의 고딕체판 글꼴 정도로 보시면 됩니다(~유니코드 15.0).
 
 ### 확인용
 기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다. ~~설마 안보이는 경우가 있을리가...~~
 
 * **확장 A**
+
 <span class="exk" style="font-size: 24px;">㐀 㔀 㘀 㜀 㠀 㤀 㨀 㬀</span>
 
 * **확장 B**
+
 <span class="exk" style="font-size: 24px;">𠀀 𡀀 𢀀 𣀀 𤀀 𥀀 𦀀 𧀀</span>
 
 * **확장 C**
+
 <span class="exk" style="font-size: 24px;">𪜀 𪠀 𪤀 𪨀 𪬀 𪰀 𪴀 𪸀</span>
 
 * **확장 D**
+
 <span class="exk" style="font-size: 24px;">𫝀 𫝐 𫝠 𫝰 𫞀 𫞐 𫞠 𫞰</span>
 
 * **확장 E**
+
 <span class="exk" style="font-size: 24px;">𫠠 𫠡 𫠢 𫠣 𫠤 𫠥 𫠦 𫠧</span>
 
 * **확장 F**
+
 <span class="exk" style="font-size: 24px;">𬺰 𬺱 𬺲 𬺳 𬺴 𬺵 𬺶 𬺷</span>
 
 * **확장 G**
+
 <span class="exk" style="font-size: 24px;">𰀀 𰀁 𰀂 𰀃 𰀄 𰀅 𰀆 𰀇</span>
 
 * **확장 H**
+
 <span class="exk" style="font-size: 24px;">𱍐 𱍑 𱍓 𱍕 𱍗 𱍟 𱏐 𱟛</span>
 
 * **확장 I**
+
 <span class="exk" style="font-size: 24px;">𮯰 𮰔 𮱏 𮱶 𮲐 𮲪 𮵏 𮷍</span>
 
 * **기타**
-<div class="exk" style="font-size: 24px;">
-龦 龧 龨 龩 龪 龫 龬 龭 龮 龯
+<p class="exk" style="font-size: 24px;">龦 龧 龨 龩 龪 龫 龬 龭 龮 龯</p>
 
 龰 龱 龲 龳 龴 龵 龶 龷 龸 龹
 
@@ -99,7 +109,6 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 鿬 鿭 鿮 鿯 鿰 鿱 鿲 鿳 鿴 鿵
 
 鿶 鿷 鿸 鿹 鿺 鿻 鿼 鿽 鿾 鿿
-</div>
 
 # IPA 글꼴
 이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 설치되어 있지 않다면 기본 세리프 글꼴(윈도우는 Times New Roman)을 이용합니다.
