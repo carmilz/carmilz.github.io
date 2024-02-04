@@ -46,6 +46,8 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 
 그래서 하나조노의 대체품으로 최신 유니코드 15.1의 한자까지 지원하는 [Jigmo](https://kamichikoichi.github.io/jigmo/)라는 글꼴이 나왔습니다(최근 업데이트: 2023. 8. 16.).
 
+Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습니다.
+
 혹시 개발자 도구로 보고 싶으시면 태그 속성에 `class="exk"`로 적용하시면 됩니다.
 
 ### 이 외의 글꼴로는...
@@ -59,19 +61,31 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 하나조노의 고딕체판 글꼴 정도로 보시면 됩니다(~유니코드 15.0).
 
 ### 확인용
-기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다. ~~설마 안보이는 경우가 있을리가...~~
+기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다.
 
 * **확장 A**
 
 <p class="exk" style="font-size: xx-large;">㐀 㔀 㘀 㜀 㠀 㤀 㨀 㬀</p>
 
+* **확장 A+**
+
+<p class="exk" style="font-size: xx-large;">䶶 䶷 䶸 䶹 䶺 䶻 䶼 䶽 䶾 䶿</p>
+
 * **확장 B**
 
 <p class="exk" style="font-size: xx-large;">𠀀 𡀀 𢀀 𣀀 𤀀 𥀀 𦀀 𧀀</p>
 
+* **확장 B+**
+
+<p class="exk" style="font-size: xx-large;">𪛗 𪛘 𪛙 𪛚 𪛛 𪛜 𪛝 𪛞 𪛟</p>
+
 * **확장 C**
 
 <p class="exk" style="font-size: xx-large;">𪜀 𪠀 𪤀 𪨀 𪬀 𪰀 𪴀 𪸀</p>
+
+* **확장 C+**
+
+<p class="exk" style="font-size: xx-large;">𫜵 𫜶 𫜷 𫜸 𫜹</p>
 
 * **확장 D**
 
