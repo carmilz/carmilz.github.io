@@ -4,6 +4,7 @@ permalink: /about-fonts/
 read_time: true
 toc: true
 toc_label: "목차"
+toc_sticky: true
 ---
 본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다.
 
