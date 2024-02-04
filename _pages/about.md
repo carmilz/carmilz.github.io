@@ -1,7 +1,6 @@
 ---
 title: "소개"
 permalink: /about/
-author_profile: true
 ---
 안녕하세요. 현재 전문대 컴공과 재학중인 2002년생 오현근입니다.
 

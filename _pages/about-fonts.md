@@ -1,0 +1,107 @@
+---
+title: "글꼴에 관하여"
+permalink: /about-fonts/
+read_time: true
+---
+본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다.
+
+Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
+
+다만 본고딕은 한국어뿐만 아니라, 일본어, 중국어 정체/간체까지 아우르는 글꼴이기에 웹 폰트로 올리면 로딩 시간이 길어질 것을 고려해 웹 폰트로 올리지는 않았습니다.
+
+본고딕이 설치되지 않은 환경이라면 여러분이 사용하고 계신 운영체제의 기본 글꼴이 나올 것입니다.
+
+본고딕을 설치하시려면 아래 링크를 참조 바랍니다(설치하실 때 언어별로 전부 설치하시는 것을 권장합니다).
+
+[본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans/tree/release), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
+
+혹시 Montserrat를 직접 설치하고 싶으시면 [링크(클릭)](https://fonts.google.com/specimen/Montserrat) 참조 바랍니다(Download Family 클릭).
+
+# 한자 글꼴
+본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 위의 본고딕을 활용하고 있습니다. 본고딕을 설치하시지 않더라도 대부분의 환경에서는 정확한 글꼴로 출력될 것으로 예상하지만, 간혹 정상적으로 출력되지 않는 환경이 일부 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
+
+## 확장 신자체 글꼴
+일본어의 일부 확장 신자체를 지원하기 위해 본 사이트에서는 Kosugi라는 글꼴을 사용하고 있습니다. Kosugi 역시 구글 폰트로 가져오기에 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
+
+직접 설치하시려면 [링크(클릭)](https://fonts.google.com/specimen/Kosugi) 참조 바랍니다(Download Family 클릭).
+
+이 사이트에서 사용되는 것을 보시려면 브라우저의 개발자 도구를 여신 후 태그 속성에 `class="kasai"`로 적용하시면 됩니다.
+
+## 확장 한자
+이 섹션은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참조했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자 관련 설명도 자세하게 되어있어 매우 유용합니다.
+
+유니코드에는 한자가 매우 많습니다. 진짜 많이요.
+
+그렇다 보니 기본 한자 영역에 추가되지 못하고 확장 영역에 추가된 한자들이 엄청 많습니다. ~~심지어 지금 확장 I까지 있읍니다~~
+
+이런 확장 한자들을 일반적인 글꼴들로는 일부만 표시되거나 아예 표시를 하지 못하기 때문에 전용 글꼴이 필요합니다.
+
+대표적으로는 하나조노 명조가 있었으나 이 글꼴은 유니코드 10.0까지의 한자밖에 표시를 못한다는 단점이 있고, 오랫동안 업데이트가 없었습니다(마지막 업데이트가 2017년 9월이었나 그럴걸요?).
+
+그래서 하나조노의 대체품으로 최신 유니코드 15.1의 한자까지 지원하는 [Jigmo](https://kamichikoichi.github.io/jigmo/)라는 글꼴이 나왔습니다(최근 업데이트: 2023. 8. 16.).
+
+혹시 개발자 도구로 보고 싶으시면 태그 속성에 `class="exk"`로 적용하시면 됩니다.
+
+### 이 외의 글꼴로는...
+
+* **[cutra_AppendingToHanaMin](https://ko.glyphwiki.org/wiki/Group:cutra_AppendingToHanaMin)**
+하나조노의 확장판 격인 글꼴입니다(확장 C~H, URO+, 확장 A+, 확장 B+, 확장 C+ 영역 지원).
+
+* **[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)**
+하나조노의 고딕체판 글꼴 정도로 보시면 됩니다(~유니코드 15.0).
+
+### 확인용
+기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다. ~~설마 안보이는 경우가 있을리가...~~
+
+* **확장 A**
+<span class="exk" style="font-size: 24px;">㐀 㔀 㘀 㜀 㠀 㤀 㨀 㬀</span>
+
+* **확장 B**
+<span class="exk" style="font-size: 24px;">𠀀 𡀀 𢀀 𣀀 𤀀 𥀀 𦀀 𧀀</span>
+
+* **확장 C**
+<span class="exk" style="font-size: 24px;">𪜀 𪠀 𪤀 𪨀 𪬀 𪰀 𪴀 𪸀</span>
+
+* **확장 D**
+<span class="exk" style="font-size: 24px;">𫝀 𫝐 𫝠 𫝰 𫞀 𫞐 𫞠 𫞰</span>
+
+* **확장 E**
+<span class="exk" style="font-size: 24px;">𫠠 𫠡 𫠢 𫠣 𫠤 𫠥 𫠦 𫠧</span>
+
+* **확장 F**
+<span class="exk" style="font-size: 24px;">𬺰 𬺱 𬺲 𬺳 𬺴 𬺵 𬺶 𬺷</span>
+
+* **확장 G**
+<span class="exk" style="font-size: 24px;">𰀀 𰀁 𰀂 𰀃 𰀄 𰀅 𰀆 𰀇</span>
+
+* **확장 H**
+<span class="exk" style="font-size: 24px;">𱍐 𱍑 𱍓 𱍕 𱍗 𱍟 𱏐 𱟛</span>
+
+* **확장 I**
+<span class="exk" style="font-size: 24px;">𮯰 𮰔 𮱏 𮱶 𮲐 𮲪 𮵏 𮷍</span>
+
+* **기타**
+<div class="exk" style="font-size: 24px;">
+龦 龧 龨 龩 龪 龫 龬 龭 龮 龯
+
+龰 龱 龲 龳 龴 龵 龶 龷 龸 龹
+
+龺 龻 龼 龽 龾 龿 鿀 鿁 鿂 鿃
+
+鿄 鿅 鿆 鿇 鿈 鿉 鿊 鿋 鿌 鿍
+
+鿎 鿏 鿐 鿑 鿒 鿓 鿔 鿕 鿖 鿗
+
+鿘 鿙 鿚 鿛 鿜 鿝 鿞 鿟 鿠 鿡
+
+鿢 鿣 鿤 鿥 鿦 鿧 鿨 鿩 鿪 鿫
+
+鿬 鿭 鿮 鿯 鿰 鿱 鿲 鿳 鿴 鿵
+
+鿶 鿷 鿸 鿹 鿺 鿻 鿼 鿽 鿾 鿿
+</div>
+
+# IPA 글꼴
+이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 설치되어 있지 않다면 기본 세리프 글꼴(윈도우는 Times New Roman)을 이용합니다.
+
+Gentium 글꼴은 [이 링크(클릭)](https://software.sil.org/gentium/download/)에서 다운로드하실 수 있습니다.

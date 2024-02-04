@@ -341,11 +341,11 @@ input[type="submit"],
 }
 
 .exk {
-  font-family: HanaMinB, HanaMinA, HanaMin, Hanazono Mincho B, Hanazono Mincho A, MingLiU-ExtA, MingLiU-ExtB, PMingLiU-ExtB, MingLiU_HKSCS-ExtB, SimSun-ExtB, SimSun-18030, cutra_AppendingToHanaMin, serif;
+  font-family: Jigmo, Jigmo2, Jigmo3, HanaMinB, HanaMinA, HanaMin, Hanazono Mincho B, Hanazono Mincho A, cutra_AppendingToHanaMin, MingLiU-ExtA, MingLiU-ExtB, PMingLiU-ExtB, MingLiU_HKSCS-ExtB, SimSun-ExtB, SimSun-18030, serif;
 }
 
 .ipa {
-  font-family: Times New Roman, Gentium Plus, Times, serif;
+  font-family: Gentium Plus, Times New Roman, Times, serif;
 }
 
 .kasai {
@@ -357,21 +357,21 @@ input[type="submit"],
 }
 
 [lang|=ko] {
-  font-family: 본고딕, Noto Sans CJK KR, source-han-sans-korean;
+  font-family: 본고딕, Source Han Sans KR, Noto Sans CJK KR, source-han-sans-korean, sans-serif;
 }
 
 [lang|=ja] {
-  font-family: Source Han Sans, Noto Sans CJK JP, source-han-sans-japanese;
+  font-family: Source Han Sans, Noto Sans CJK JP, source-han-sans-japanese, sans-serif;
 }
 
 [lang|=zh] {
-  font-family: Source Han Sans TC, Noto Sans CJK TC, source-han-sans-simplified-c;
+  font-family: Source Han Sans TC, Noto Sans CJK TC, source-han-sans-simplified-c, sans-serif;
 }
 
 [lang|=zh-tw] {
-  font-family: Source Han Sans TC, Noto Sans CJK TC, source-han-sans-traditional;
+  font-family: Source Han Sans TC, Noto Sans CJK TC, source-han-sans-traditional, sans-serif;
 }
 
 [lang|=zh-cn] {
-  font-family: Source Han Sans SC, Noto Sans CJK SC, source-han-sans-simplified-c;
+  font-family: Source Han Sans SC, Noto Sans CJK SC, source-han-sans-simplified-c, sans-serif;
 }
