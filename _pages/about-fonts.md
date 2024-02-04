@@ -30,7 +30,7 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 
 이 사이트에서 사용되는 것을 보시려면 브라우저의 개발자 도구를 여신 후 태그 속성에 `class="kasai"`로 적용하시면 됩니다.
 
-예시: <span class="kasai" style="font-size: x-large;">曙</span>(새벽 서)
+예시: <span class="kasai" style="font-size: x-large;">迂</span>(에돌 우)
 
 ## 확장 한자
 이 문단은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참조했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자 관련 설명도 자세하게 되어있어 매우 유용합니다.
