@@ -8,6 +8,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kosugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 $doc-font-size: 16 !default;
 
@@ -16,8 +17,8 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, HanaminA, HanaminB, cutra_AppendingToHanaMin, serif !default;
-$sans-serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, HanaminA, HanaminB, cutra_AppendingToHanaMin, sans-serif !default;
+$serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, Jigmo, Jigmo2, Jigmo3, serif !default;
+$sans-serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, Jigmo, Jigmo2, Jigmo3, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */

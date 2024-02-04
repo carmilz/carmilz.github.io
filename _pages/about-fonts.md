@@ -85,7 +85,7 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 
 하나조노의 고딕체판 글꼴 정도로 보시면 됩니다(~유니코드 15.0).
 
-### 확인용
+### 확인
 기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다.
 
 나중에 각 영역의 모든 한자를 정리한 글을 작성할 예정입니다.
@@ -153,9 +153,11 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 # 확장 가나(헨타이가나 등) 글꼴
 헨타이가나도 Jigmo에서 모두 지원하는 것으로 보입니다.
 
-확인: <span class="exk" style="font-size: xx-large;">𛀂𛀆𛀁𛀙𛄟 𛀀𛄠𛄡𛄢 𛅐𛅑𛅒𛅤𛅥𛅦𛅧</span>
+예시: <span class="exk" style="font-size: xx-large;">𛀂𛀆𛀁𛀙𛄟 𛀀𛄠𛄡𛄢 𛅐𛅑𛅒𛅤𛅥𛅦𛅧</span>
 
 # IPA 글꼴
-이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 설치되어 있지 않다면 기본 세리프 글꼴(윈도우는 Times New Roman)을 이용합니다.
+이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 이 글꼴도 웹 폰트를 이용하였으므로 대부분의 환경에서는 정상적으로 나올 것입니다.
 
 Gentium 글꼴은 [이 링크(클릭)](https://software.sil.org/gentium/download/)에서 다운로드하실 수 있습니다.
+
+예시: <span class="ipa" style="font-size: x-large;">[𝼆𝼆𝼀ꞯ]</span>
