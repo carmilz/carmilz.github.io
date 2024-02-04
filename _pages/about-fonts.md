@@ -23,6 +23,27 @@ Montserrat는 웹 폰트(구글 폰트)를 이용하고 있어 웬만한 기기�
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 위의 본고딕을 활용하고 있습니다. 본고딕을 설치하시지 않더라도 대부분의 환경에서는 정확한 글꼴로 출력될 것으로 예상하지만, 간혹 정상적으로 출력되지 않는 환경이 일부 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
 
+## 각국 자형의 차이
+유니코드에서는 한자를 배당할 때 미묘한 자형 차이는 통합했기에 해당 국가의 언어를 적을 때에는 반드시 해당 언어의 글꼴을 사용해야 합니다.
+
+왼쪽부터 한국식, 일본식, 중국어 정체, 중국어 간체입니다.
+
+U+60C5(뜻 정): <span lang="ko" style="font-size: x-large;">情</span> <span lang="ja" style="font-size: x-large;">情</span> <span lang="zh-tw" style="font-size: x-large;">情</span> <span lang="zh-cn" style="font-size: x-large;">情</span>
+
+U+618E(미울 증): <span lang="ko" style="font-size: x-large;">憎</span> <span lang="ja" style="font-size: x-large;">憎</span> <span lang="zh-tw" style="font-size: x-large;">憎</span> <span lang="zh-cn" style="font-size: x-large;">憎</span>
+
+U+76F4(곧을 직): <span lang="ko" style="font-size: x-large;">直</span> <span lang="ja" style="font-size: x-large;">直</span> <span lang="zh-tw" style="font-size: x-large;">直</span> <span lang="zh-cn" style="font-size: x-large;">直</span>
+
+U+89D2(뿔 각): <span lang="ko" style="font-size: x-large;">角</span> <span lang="ja" style="font-size: x-large;">角</span> <span lang="zh-tw" style="font-size: x-large;">角</span> <span lang="zh-cn" style="font-size: x-large;">角</span>
+
+U+8FF0(펼 술): <span lang="ko" style="font-size: x-large;">述</span> <span lang="ja" style="font-size: x-large;">述</span> <span lang="zh-tw" style="font-size: x-large;">述</span> <span lang="zh-cn" style="font-size: x-large;">述</span>
+
+U+8941(포대기 강): <span lang="ko" style="font-size: x-large;">襁</span> <span lang="ja" style="font-size: x-large;">襁</span> <span lang="zh-tw" style="font-size: x-large;">襁</span> <span lang="zh-cn" style="font-size: x-large;">襁</span>
+
+U+9AA8(뼈 골): <span lang="ko" style="font-size: x-large;">骨</span> <span lang="ja" style="font-size: x-large;">骨</span> <span lang="zh-tw" style="font-size: x-large;">骨</span> <span lang="zh-cn" style="font-size: x-large;">骨</span>
+
+~~사실 이런 미묘한 차이도 그냥 다른 코드로 배당해 놓았으면 편리했을텐데 유니코드 컨소시엄은 그걸 너무 늦게 깨달았나 봅니다...~~
+
 ## 확장 신자체 글꼴
 일본어의 일부 확장 신자체를 지원하기 위해 본 사이트에서는 Kosugi라는 글꼴을 사용하고 있습니다. Kosugi 역시 구글 폰트로 가져오기에 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
@@ -62,6 +83,8 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 
 ### 확인용
 기본 한자 영역은 전부 보이실 것으로 판단하고 여기에 넣진 않겠습니다.
+
+나중에 각 영역의 모든 한자를 정리한 글을 작성할 예정입니다.
 
 * **확장 A**
 
@@ -111,7 +134,7 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 
 <p class="exk" style="font-size: xx-large;">𮯰 𮰔 𮱏 𮱶 𮲐 𮲪 𮵏 𮷍</p>
 
-* **기타**
+* **URO+**
 
 <p class="exk" style="font-size: xx-large;">龦 龧 龨 龩 龪 龫 龬 龭 龮 龯</p>
 <p class="exk" style="font-size: xx-large;">龰 龱 龲 龳 龴 龵 龶 龷 龸 龹</p>
@@ -122,6 +145,11 @@ Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았
 <p class="exk" style="font-size: xx-large;">鿢 鿣 鿤 鿥 鿦 鿧 鿨 鿩 鿪 鿫</p>
 <p class="exk" style="font-size: xx-large;">鿬 鿭 鿮 鿯 鿰 鿱 鿲 鿳 鿴 鿵</p>
 <p class="exk" style="font-size: xx-large;">鿶 鿷 鿸 鿹 鿺 鿻 鿼 鿽 鿾 鿿</p>
+
+# 확장 가나(헨타이가나 등) 글꼴
+헨타이가나도 Jigmo에서 모두 지원하는 것으로 보입니다.
+
+확인: <span class="exk" style="font-size: xx-large;">𛀂𛀆𛀁𛀙𛄟 𛀀𛄠𛄡𛄢 𛅐𛅑𛅒𛅤𛅥𛅦𛅧</span>
 
 # IPA 글꼴
 이 사이트에서는 IPA를 표기하기 위해서 Gentium Plus를 사용합니다. 설치되어 있지 않다면 기본 세리프 글꼴(윈도우는 Times New Roman)을 이용합니다.
