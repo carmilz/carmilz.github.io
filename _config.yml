@@ -296,6 +296,8 @@ defaults:
       related: true
       show_date: true
       mathjax: true
+      toc: true
+      toc_label: "목차"
       sidebar:
         nav: "sidebar-category"
   # _pages
