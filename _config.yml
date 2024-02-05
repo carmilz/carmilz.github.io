@@ -120,28 +120,31 @@ author:
     - label: "GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/carmilz"
-    - label: "Twitter"
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/HgOh_Cperr"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://twitter.com/HgOh_487"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
       url: "https://instagram.com/hg_cperr"
+    - label: "Steam"
+      icon: "fa-brands fa-steam"
+      url: "https://steamcommunity.com/id/carmilz/"
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
+    - label: "이메일"
       icon: "fa-sharp fa-solid fa-envelope"
       url: "mailto:carmilz@outlook.com"
     - label: "GitHub"
       icon: "fa-brands fa-github"
       url: "https://github.com/carmilz"
-    - label: "Twitter"
-      icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/HgOh_Cperr"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://twitter.com/HgOh_487"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -151,7 +154,7 @@ footer:
     # - label: "Bitbucket"
       # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: "인스타"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hg_cperr"
 

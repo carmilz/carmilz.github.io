@@ -7,7 +7,7 @@ sitemap: true
 ---
 <i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 2. 5.*
 
-본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다.
+본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
 
 Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
