@@ -3,7 +3,7 @@ title: "라이센스 정책"
 permalink: /licenses/
 comments: false
 ---
-*마지막 수정: 2024. 2. 4.*
+<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 2. 4.*
 
 외부 출처를 제외한 본 사이트의 모든 콘텐츠들은 별도로 명시하지 않는 한, 퍼블릭 도메인으로 자유롭게 사용하실 수 있습니다. 출처는 명시하셔도 되고 안하셔도 됩니다.
 

@@ -5,7 +5,7 @@ read_time: true
 toc: true
 sitemap: true
 ---
-*마지막 수정: 2024. 2. 5.*
+<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 2. 5.*
 
 본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다.
 
