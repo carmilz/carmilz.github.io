@@ -298,8 +298,6 @@ defaults:
       sitemap: true
       toc: true
       toc_label: "목차"
-      toc_sticky: true
-      toc_icon: "fa-list"
       sidebar:
         nav: "sidebar-category"
   # _pages
@@ -312,7 +310,5 @@ defaults:
       comments: true
       share: true
       toc_label: "목차"
-      toc_sticky: true
-      toc_icon: "fa-list"
       sidebar:
         nav: "sidebar-category"
