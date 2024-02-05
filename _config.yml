@@ -123,12 +123,14 @@ author:
     - label: "Twitter"
       icon: "fa-brands fa-twitter"
       url: "https://twitter.com/HgOh_Cperr"
+      color: "#55acee"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
       url: "https://instagram.com/hg_cperr"
+      color: "#517fa4"
 
 # Site Footer
 footer:
@@ -142,6 +144,7 @@ footer:
     - label: "Twitter"
       icon: "fa-brands fa-twitter"
       url: "https://twitter.com/HgOh_Cperr"
+      color: "#55acee"
     # - label: "Facebook"
       # icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -154,6 +157,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/hg_cperr"
+      color: "#517fa4"
 
 
 # Reading Files
