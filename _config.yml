@@ -111,12 +111,12 @@ author:
   location         : "Republic of Korea"
   email            :
   links:
-    - label: "carmilz@outlook.com"
-      icon: "fa-sharp fa-solid fa-envelope"
-      url: "mailto:carmilz@outlook.com"
     - label: "carmilz.moe"
       icon: "fa-sharp fa-solid fa-link"
       url: "https://carmilz.moe"
+    - label: "carmilz@outlook.com"
+      icon: "fa-sharp fa-solid fa-envelope"
+      url: "mailto:carmilz@outlook.com"
     - label: "carmilz"
       icon: "fa-brands fa-github"
       url: "https://github.com/carmilz"
