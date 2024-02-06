@@ -90,6 +90,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 *****
 
+# Gentium Plus
+<i class="fa-sharp fa-regular fa-memo-circle-info"></i> [SIL Open Font License 1.1](https://openfontlicense.org/)
+
+Copyright (c) 2003-2023 SIL International (http://www.sil.org/) with Reserved
+
+Font Names "Gentium" and "SIL".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+<i class="fa-sharp fa-solid fa-link"></i> [Gentium Website](https://software.sil.org/gentium/)
+
+*****
+
 # Jigmo
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -117,9 +130,6 @@ Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Mon
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
-
 <i class="fa-sharp fa-solid fa-link"></i> [GitHub](https://github.com/JulietaUla/Montserrat)
 
 *****
@@ -132,8 +142,5 @@ Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Sour
 Source is a trademark of Adobe in the United States and/or other countries.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
 
 <i class="fa-sharp fa-solid fa-link"></i> [GitHub](https://github.com/adobe-fonts/source-han-sans)
