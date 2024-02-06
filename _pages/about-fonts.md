@@ -5,25 +5,34 @@ read_time: true
 toc: true
 sitemap: true
 ---
-<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 2. 5.*
+<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 2. 6.*
 
+# 글꼴별 소스
+글꼴별 라이센스는 [크레딧](/credits) 참조 바랍니다.
+{: .notice--warning}
+
+* 웹 폰트(자체 저장소): Montserrat, Gentium Plus
+* 웹 폰트(외부 CDN): Kosugi(Google Fonts), Font Awesome
+* 개별 설치: 본고딕, Jigmo
+
+*****
+
+# 개요
 본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
 
 Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
-다만 본고딕은 한국어뿐만 아니라, 일본어, 중국어 정체/간체까지 아우르는 글꼴이기에 웹 폰트로 올리면 로딩 시간이 길어질 것을 고려해 웹 폰트로 올리지는 않았습니다.
+다만 본고딕은 한국어뿐만 아니라 일본어, 중국어 정체/간체까지 아우르는 글꼴이기에 웹 폰트로 올리면 로딩 시간이 길어질 것을 고려해 웹 폰트로 올리지는 않았습니다.
 
 본고딕이 설치되지 않은 환경이라면 여러분이 사용하고 계신 운영체제의 기본 글꼴이 나올 것입니다.
 
 본고딕을 설치하시려면 아래 링크를 참조 바랍니다(설치하실 때 언어별로 전부 설치하시는 것을 권장합니다).
 
-[본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans/tree/release), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
+[본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
 
 혹시 Montserrat를 직접 설치하고 싶으시면 아래 링크 참조 바랍니다.
 
 [링크(GitHub)](https://github.com/JulietaUla/Montserrat), [최신 버전(7.222) 직링크](https://github.com/JulietaUla/Montserrat/archive/refs/tags/v7.222.zip)
-
-*****
 
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 위의 본고딕을 활용하고 있습니다. 본고딕을 설치하시지 않더라도 대부분의 환경에서는 정확한 글꼴로 출력될 것으로 예상하지만, 간혹 정상적으로 출력되지 않는 환경이 일부 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
@@ -33,19 +42,15 @@ Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상
 
 왼쪽부터 한국식, 일본식, 중국어 정체, 중국어 간체입니다.
 
+U+793E(모일 사): <span lang="ko" style="font-size: x-large;">社</span> <span lang="ja" style="font-size: x-large;">社</span> <span lang="zh-tw" style="font-size: x-large;">社</span> <span lang="zh-cn" style="font-size: x-large;">社</span>
+
+U+9053(길 도): <span lang="ko" style="font-size: x-large;">道</span> <span lang="ja" style="font-size: x-large;">道</span> <span lang="zh-tw" style="font-size: x-large;">道</span> <span lang="zh-cn" style="font-size: x-large;">道</span>
+
+U+6D88(사라질 소): <span lang="ko" style="font-size: x-large;">消</span> <span lang="ja" style="font-size: x-large;">消</span> <span lang="zh-tw" style="font-size: x-large;">消</span> <span lang="zh-cn" style="font-size: x-large;">消</span>
+
 U+60C5(뜻 정): <span lang="ko" style="font-size: x-large;">情</span> <span lang="ja" style="font-size: x-large;">情</span> <span lang="zh-tw" style="font-size: x-large;">情</span> <span lang="zh-cn" style="font-size: x-large;">情</span>
 
-U+618E(미울 증): <span lang="ko" style="font-size: x-large;">憎</span> <span lang="ja" style="font-size: x-large;">憎</span> <span lang="zh-tw" style="font-size: x-large;">憎</span> <span lang="zh-cn" style="font-size: x-large;">憎</span>
-
-U+76F4(곧을 직): <span lang="ko" style="font-size: x-large;">直</span> <span lang="ja" style="font-size: x-large;">直</span> <span lang="zh-tw" style="font-size: x-large;">直</span> <span lang="zh-cn" style="font-size: x-large;">直</span>
-
-U+89D2(뿔 각): <span lang="ko" style="font-size: x-large;">角</span> <span lang="ja" style="font-size: x-large;">角</span> <span lang="zh-tw" style="font-size: x-large;">角</span> <span lang="zh-cn" style="font-size: x-large;">角</span>
-
-U+8FF0(펼 술): <span lang="ko" style="font-size: x-large;">述</span> <span lang="ja" style="font-size: x-large;">述</span> <span lang="zh-tw" style="font-size: x-large;">述</span> <span lang="zh-cn" style="font-size: x-large;">述</span>
-
-U+8941(포대기 강): <span lang="ko" style="font-size: x-large;">襁</span> <span lang="ja" style="font-size: x-large;">襁</span> <span lang="zh-tw" style="font-size: x-large;">襁</span> <span lang="zh-cn" style="font-size: x-large;">襁</span>
-
-U+9AA8(뼈 골): <span lang="ko" style="font-size: x-large;">骨</span> <span lang="ja" style="font-size: x-large;">骨</span> <span lang="zh-tw" style="font-size: x-large;">骨</span> <span lang="zh-cn" style="font-size: x-large;">骨</span>
+위 예시는 일부에 불과합니다. 이것 말고도 유니코드에는 이런 차이가 제법 많습니다.
 
 ~~사실 이런 미묘한 차이도 그냥 다른 코드로 배당해 놓았으면 편리했을텐데 유니코드 컨소시엄은 그걸 너무 늦게 깨달았나 봅니다...~~
 
@@ -59,7 +64,7 @@ U+9AA8(뼈 골): <span lang="ko" style="font-size: x-large;">骨</span> <span la
 예시: <span class="kasai" style="font-size: x-large;">迂</span>(에돌 우)
 
 ## 확장 한자
-이 문단은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참조했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자 관련 설명도 자세하게 되어있어 매우 유용합니다.
+이 문단은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참조했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자의 글꼴 관련 설명도 많이 있어 꽤 유용합니다.<br><img src="/assets/images/by-nc-sa.svg" alt="CC BY-NC-SA 3.0" title="CC BY-NC-SA 3.0">
 {: .notice--info}
 
 유니코드에는 한자가 매우 많습니다. 진짜 많이요.
