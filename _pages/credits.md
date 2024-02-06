@@ -21,6 +21,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <i class="fa-sharp fa-solid fa-link"></i> [Jekyll Website](https://jekyllrb.com/), [GitHub](https://github.com/jekyll/jekyll)
 
+*****
+
 # Minimal Mistakes
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [MIT License](https://www.tldrlegal.com/license/mit-license)
 
@@ -33,6 +35,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <i class="fa-sharp fa-solid fa-link"></i> [Minimal Mistakes Website](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/), [GitHub](https://github.com/mmistakes/minimal-mistakes)
+
+*****
 
 # Lunr
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [MIT License](https://www.tldrlegal.com/license/mit-license)
@@ -47,6 +51,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <i class="fa-sharp fa-solid fa-link"></i> [Lunr.js Website](https://lunrjs.com/), [GitHub](https://github.com/olivernn/lunr.js)
 
+*****
+
 # JQuery
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [MIT License](https://www.tldrlegal.com/license/mit-license)
 
@@ -60,6 +66,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <i class="fa-sharp fa-solid fa-link"></i> [JQuery Website](https://jquery.com), [License](https://jquery.com/license/)
 
+*****
+
 # KaTeX
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [MIT License](https://www.tldrlegal.com/license/mit-license)
 
@@ -72,6 +80,8 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <i class="fa-sharp fa-solid fa-link"></i> [KaTeX Website](https://katex.org), [GitHub](https://github.com/KaTeX/KaTeX)
+
+*****
 
 # Source Han Sans
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [SIL Open Font License 1.1](https://openfontlicense.org/)
@@ -87,10 +97,14 @@ http://scripts.sil.org/OFL
 
 <i class="fa-sharp fa-solid fa-link"></i> [GitHub](https://github.com/adobe-fonts/source-han-sans)
 
+*****
+
 # Font Awesome
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [Font Awesome Pro License](https://fontawesome.com/license)
 
 참고: [Font Awesome Free License](https://fontawesome.com/license/free)
+
+*****
 
 # Montserrat
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [SIL Open Font License 1.1](https://openfontlicense.org/)
@@ -104,6 +118,8 @@ http://scripts.sil.org/OFL
 
 <i class="fa-sharp fa-solid fa-link"></i> [GitHub](https://github.com/JulietaUla/Montserrat)
 
+*****
+
 # Kosugi
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -114,6 +130,8 @@ You can use them in your products & projects – print or digital, commercial or
 This isn't legal advice, please consider consulting a lawyer and see the full license for all details.
 
 <i class="fa-sharp fa-solid fa-link"></i> [Google Fonts](https://fonts.google.com/specimen/Kosugi)
+
+*****
 
 # Jigmo
 <i class="fa-sharp fa-regular fa-memo-circle-info"></i> [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
