@@ -28,11 +28,11 @@ Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상
 
 본고딕을 설치하시려면 아래 링크를 참조 바랍니다(설치하실 때 언어별로 전부 설치하시는 것을 권장합니다).
 
-[본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
+<i class="fa-sharp fa-solid fa-link"></i> [본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
 
 혹시 Montserrat를 직접 설치하고 싶으시면 아래 링크 참조 바랍니다.
 
-[링크(GitHub)](https://github.com/JulietaUla/Montserrat), [최신 버전(7.222) 직링크](https://github.com/JulietaUla/Montserrat/archive/refs/tags/v7.222.zip)
+<i class="fa-sharp fa-solid fa-link"></i> [링크(GitHub)](https://github.com/JulietaUla/Montserrat), [최신 버전(7.222) 직링크](https://github.com/JulietaUla/Montserrat/archive/refs/tags/v7.222.zip)
 
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 위의 본고딕을 활용하고 있습니다. 본고딕을 설치하시지 않더라도 대부분의 환경에서는 정확한 글꼴로 출력될 것으로 예상하지만, 간혹 정상적으로 출력되지 않는 환경이 일부 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
