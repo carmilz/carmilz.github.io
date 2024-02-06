@@ -48,7 +48,7 @@ U+9053(길 도): <span lang="ko" style="font-size: x-large;">道</span> <span la
 
 U+6D88(사라질 소): <span lang="ko" style="font-size: x-large;">消</span> <span lang="ja" style="font-size: x-large;">消</span> <span lang="zh-tw" style="font-size: x-large;">消</span> <span lang="zh-cn" style="font-size: x-large;">消</span>
 
-U+60C5(뜻 정): <span lang="ko" style="font-size: x-large;">情</span> <span lang="ja" style="font-size: x-large;">情</span> <span lang="zh-tw" style="font-size: x-large;">情</span> <span lang="zh-cn" style="font-size: x-large;">情</span>
+U+7CBE(정할 정): <span lang="ko" style="font-size: x-large;">精</span> <span lang="ja" style="font-size: x-large;">精</span> <span lang="zh-tw" style="font-size: x-large;">精</span> <span lang="zh-cn" style="font-size: x-large;">精</span>
 
 위 예시는 일부에 불과합니다. 이것 말고도 유니코드에는 이런 차이가 제법 많습니다.
 
