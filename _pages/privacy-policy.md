@@ -16,7 +16,7 @@ comments: false
 Montserrat와 Gentium Plus는 외부 웹 폰트가 아닌 [사이트 자체 저장소](https://github.com/carmilz/carmilz.github.io)를 이용하고 있으며, 본고딕과 Jigmo 등은 웹 폰트로 제공하고 있지 않습니다([글꼴에 관하여](/about-fonts) 참고).
 
 # Privacy Badger
-<i class="fa-sharp fa-solid fa-link"></i> [#](https://privacybadger.org/)
+<i class="fa-sharp fa-solid fa-link"></i> [홈페이지](https://privacybadger.org/)
 
 개인적으로 추천드리는 프라이버시 관련 확장 프로그램입니다. 추적기를 선택해서 차단 안함/(서드 파티)쿠키 차단/도메인 차단을 선택해서 사용하실 수 있습니다. 다만 본 사이트 내에 있는 웹 폰트 등에 도메인 차단을 하도록 설정하시면 일부 글꼴이 제대로 나오지 않기에 글꼴이 깨지지 않기를 원하신다면 쿠키 차단 정도로 설정하셔도 괜찮을 것 같습니다.
 
