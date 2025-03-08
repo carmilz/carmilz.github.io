@@ -17,9 +17,9 @@ $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, Jigmo, Jigmo2, Jigmo3, serif !default;
-$sans-serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, Jigmo, Jigmo2, Jigmo3, sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+$serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, serif !default;
+$sans-serif: Montserrat, Arial, 본고딕, Source Han Sans, Source Han Sans TC, Source Han Sans SC, sans-serif !default;
+$monospace: D2Coding, Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;

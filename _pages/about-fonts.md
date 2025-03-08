@@ -5,7 +5,7 @@ read_time: true
 toc: true
 sitemap: true
 ---
-<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2024. 3. 27.*
+<i class="fa-sharp fa-regular fa-file-pen"></i> *마지막 수정: 2025. 3. 9.*
 
 # 글꼴별 소스
 글꼴별 라이센스는 [크레딧](/credits) 참조 바랍니다.
@@ -18,26 +18,20 @@ sitemap: true
 *****
 
 # 개요
-본 사이트에서는 주 글꼴로 Montserrat, 본고딕(Source Han Sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
+본 사이트에서는 주 글꼴로 [Montserrat](https://github.com/JulietaUla/Montserrat), 본고딕(Source Han Sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
 
 Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
-다만 본고딕은 한국어뿐만 아니라 일본어, 중국어 정체/간체까지 아우르는 글꼴이기에 웹 폰트로 올리면 로딩 시간이 길어질 것을 고려해 웹 폰트로 올리지는 않았습니다.
+본고딕은 현재 따로 웹 폰트로 제공하고 있지는 않고 직접 설치해 주셔야 합니다. 추후 웹 폰트로 제공하도록 노력해 보겠습니다.
 
-본고딕이 설치되지 않은 환경이라면 여러분이 사용하고 계신 운영체제의 기본 글꼴이 나올 것입니다.
-
-왜인지는 모르겠으나 일부 브라우저에서 자체 추적 방지 기능을 엄격으로 설정하면 본고딕이 제대로 출력되지 않는 현상이 발생합니다. 이게 저만 그런지는 모르겠지만 해결 방법은 본 사이트에서만 자체 추적 방지 기능을 끄시면 됩니다. 끄셔도 웹 폰트 이외의 추적 요소는 전혀 없으니 안심하셔도 됩니다([#](/privacy-policy)).
+왜인지는 모르겠으나 일부 브라우저에서 자체 추적 방지 기능을 엄격으로 설정하면 일부 글꼴(본고딕 등)이 제대로 출력되지 않는 현상이 발생합니다. 해결 방법은 본 사이트에서만 자체 추적 방지 기능을 끄시면 됩니다([#](/privacy-policy)).
 
 본고딕 설치는 아래 링크를 참조 바랍니다(설치하실 때 언어별로 전부 설치하시는 것을 권장합니다).
 
-<i class="fa-sharp fa-solid fa-link"></i> [본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 직링크](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
-
-혹시 Montserrat를 직접 설치하고 싶으시면...
-
-<i class="fa-sharp fa-solid fa-link"></i> [링크(GitHub)](https://github.com/JulietaUla/Montserrat), [최신 버전(7.222) 직링크](https://github.com/JulietaUla/Montserrat/archive/refs/tags/v7.222.zip)
+<i class="fa-sharp fa-solid fa-link"></i> [본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 다운로드](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
 
 # 한자 글꼴
-본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 본고딕을 활용하고 있습니다. 본고딕이 설치되어 있지 않더라도 대부분의 환경에서는 정확한 글꼴로 나올 것으로 예상하지만, 간혹 정상적으로 나오지 않는 환경이 있을 수 있습니다. 이 점까지는 제 사정상 모든 환경을 다루지는 못하기에 완벽하게 해결이 불가하다는 점 양해 부탁드리겠습니다.
+본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 본고딕을 활용하고 있습니다. 본고딕이 아니더라도 웬만한 환경에서는 정확하게 표시되지만, 간혹 정상적으로 나오지 않는 환경이 있을 수 있습니다.
 
 ## 각국 자형의 차이
 유니코드에서는 한자를 배당할 때 미묘한 자형 차이는 통합했기에 해당 국가의 언어를 적을 때에는 반드시 해당 언어의 글꼴을 사용해야 합니다.
@@ -57,9 +51,7 @@ U+7CBE(정할 정): <span lang="ko" style="font-size: x-large;">精</span> <span
 ~~사실 이런 미묘한 차이도 그냥 다른 코드로 배당해 놓았으면 편리했을텐데 유니코드 컨소시엄은 그걸 너무 늦게 깨달았나 봅니다...~~
 
 ## 확장 신자체 글꼴
-일본어의 일부 확장 신자체를 지원하기 위해 본 사이트에서는 Kosugi라는 글꼴을 사용하고 있습니다. Kosugi 역시 웹 폰트로 가져오기에 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
-
-직접 설치하시려면 [링크(클릭)](https://fonts.google.com/specimen/Kosugi) 참조 바랍니다(Download Family 클릭).
+일본어의 일부 확장 신자체를 지원하기 위해 본 사이트에서는 [Kosugi](https://fonts.google.com/specimen/Kosugi)라는 글꼴을 사용하고 있습니다. Kosugi 역시 웹 폰트로 가져오기에 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
 직접 보시려면 이 사이트에서 브라우저의 개발자 도구를 여신 후 태그 속성에 `class="kasai"`로 적용하시면 됩니다.
 
