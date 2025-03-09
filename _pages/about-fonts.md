@@ -49,17 +49,21 @@ OTF는 SubsetOTF에 있는 글리프들을 합친 것인데 무슨 글꼴을 선
 ## 각국 자형의 차이
 유니코드에서는 한자를 배당할 때 미묘한 자형 차이는 통합했기에 해당 국가의 언어를 적을 때에는 반드시 해당 언어의 글꼴을 사용해야 합니다.
 
-왼쪽부터 한국식, 일본식, 중국어 정체, 중국어 간체입니다.
+왼쪽부터 한국식, 일본식, 대만식 정체, 홍콩식 정체, 간체입니다.
 
-U+793E(모일 사): <span lang="ko" style="font-size: x-large;">社</span> <span lang="ja" style="font-size: x-large;">社</span> <span lang="zh-tw" style="font-size: x-large;">社</span> <span lang="zh-cn" style="font-size: x-large;">社</span>
+U+793E(모일 사): <span lang="ko" style="font-size: x-large;">社</span> <span lang="ja" style="font-size: x-large;">社</span> <span lang="zh-tw" style="font-size: x-large;">社</span> <span lang="zh-hk" style="font-size: x-large;">社</span> <span lang="zh-cn" style="font-size: x-large;">社</span>
 
-U+9053(길 도): <span lang="ko" style="font-size: x-large;">道</span> <span lang="ja" style="font-size: x-large;">道</span> <span lang="zh-tw" style="font-size: x-large;">道</span> <span lang="zh-cn" style="font-size: x-large;">道</span>
+U+9053(길 도): <span lang="ko" style="font-size: x-large;">道</span> <span lang="ja" style="font-size: x-large;">道</span> <span lang="zh-tw" style="font-size: x-large;">道</span> <span lang="zh-hk" style="font-size: x-large;">道</span> <span lang="zh-cn" style="font-size: x-large;">道</span>
 
-U+6D88(사라질 소): <span lang="ko" style="font-size: x-large;">消</span> <span lang="ja" style="font-size: x-large;">消</span> <span lang="zh-tw" style="font-size: x-large;">消</span> <span lang="zh-cn" style="font-size: x-large;">消</span>
+U+6D88(사라질 소): <span lang="ko" style="font-size: x-large;">消</span> <span lang="ja" style="font-size: x-large;">消</span> <span lang="zh-tw" style="font-size: x-large;">消</span> <span lang="zh-hk" style="font-size: x-large;">消</span> <span lang="zh-cn" style="font-size: x-large;">消</span>
 
-U+7CBE(정할 정): <span lang="ko" style="font-size: x-large;">精</span> <span lang="ja" style="font-size: x-large;">精</span> <span lang="zh-tw" style="font-size: x-large;">精</span> <span lang="zh-cn" style="font-size: x-large;">精</span>
+U+7CBE(정할 정): <span lang="ko" style="font-size: x-large;">精</span> <span lang="ja" style="font-size: x-large;">精</span> <span lang="zh-tw" style="font-size: x-large;">精</span> <span lang="zh-hk" style="font-size: x-large;">精</span> <span lang="zh-cn" style="font-size: x-large;">精</span>
+
+U+7562(마칠 필): <span lang="ko" style="font-size: x-large;">畢</span> <span lang="ja" style="font-size: x-large;">畢</span> <span lang="zh-tw" style="font-size: x-large;">畢</span> <span lang="zh-hk" style="font-size: x-large;">畢</span> <span lang="zh-cn" style="font-size: x-large;">畢</span>
 
 위 예시는 일부에 불과합니다. 이것 말고도 유니코드에는 이런 차이가 제법 많습니다.
+
+나중에 유니코드 컨소시엄에서 IVS(이체자 셀렉터)라는 것을 만들었지만 현재로서는 지원하는 글꼴이 매우 적다는 단점이 있습니다.
 
 ~~사실 이런 미묘한 차이도 그냥 다른 코드로 배당해 놓았으면 편리했을 텐데 유니코드 컨소시엄은 그걸 너무 늦게 깨달았나 봅니다...~~
 
