@@ -88,7 +88,7 @@ U+7562(마칠 필): <span lang="ko" style="font-size: x-large;">畢</span> <span
 
 그래서 하나조노의 대체품으로 최신 유니코드 15.1의 한자까지 지원하는 [Jigmo](https://kamichikoichi.github.io/jigmo/)라는 글꼴이 나왔습니다(최근 업데이트: 2023. 8. 16.).
 
-Jigmo 역시 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습니다.
+Jigmo는 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습니다.
 
 개발자 도구로 보고 싶으시면 태그 속성에 `class="exk"`로 적용하시면 됩니다.
 
