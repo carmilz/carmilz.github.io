@@ -12,23 +12,19 @@ sitemap: true
 {: .notice--warning}
 
 * 웹 폰트(자체 저장소): Montserrat, Gentium Plus
-* 웹 폰트(외부 CDN): Kosugi(Google Fonts), Font Awesome
-* 개별 설치: 본고딕, Jigmo
+* 웹 폰트(외부 CDN): Kosugi(Google Fonts), 본고딕(Adobe Fonts), Font Awesome
+* 개별 설치: Jigmo
 
 *****
 
 # 개요
-본 사이트에서는 주 글꼴로 [Montserrat](https://github.com/JulietaUla/Montserrat), 본고딕(Source Han Sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
+본 사이트에서는 주 글꼴로 [Montserrat](https://github.com/JulietaUla/Montserrat), [본고딕(Source Han Sans)](https://github.com/adobe-fonts/source-han-sans)을 이용하고 있습니다(기타 아이콘 등은 [Font Awesome](https://fontawesome.com) 사용 중).
 
-Montserrat는 웹 폰트를 이용하고 있어 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
+두 글꼴 모두 웹 폰트로 제공하고 있어 별도로 글꼴을 설치하지 않아도 웬만한 기기에서는 정상적으로 출력이 될 것입니다.
 
-본고딕은 현재 따로 웹 폰트로 제공하고 있지는 않고 직접 설치해 주셔야 합니다. 추후 웹 폰트로 제공하도록 노력해 보겠습니다.
+본고딕은 글꼴 특성상 웹 폰트 용량이 많아서 불러오는 데 시간이 걸리는 편이므로 글꼴 설치가 가능한 환경이라면 별도로 설치하시는 것을 권장드립니다.
 
-왜인지는 모르겠으나 일부 브라우저에서 자체 추적 방지 기능을 엄격으로 설정하면 일부 글꼴(본고딕 등)이 제대로 출력되지 않는 현상이 발생합니다. 해결 방법은 본 사이트에서만 자체 추적 방지 기능을 끄시면 됩니다([#](/privacy-policy)).
-
-본고딕 설치는 아래 링크를 참조 바랍니다(설치하실 때 언어별로 전부 설치하시는 것을 권장합니다).
-
-<i class="fa-sharp fa-solid fa-link"></i> [본고딕(GitHub)](https://github.com/adobe-fonts/source-han-sans), [최신 버전(2.004R) 다운로드](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip)
+일부 브라우저에서 자체 추적 방지 기능을 엄격으로 설정하면 일부 글꼴이 제대로 출력되지 않는 현상이 발생하는 것으로 보입니다. 해결 방법은 본 사이트에서만 자체 추적 방지 기능을 끄시면 됩니다([#](/privacy-policy)).
 
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 본고딕을 활용하고 있습니다. 본고딕이 아니더라도 웬만한 환경에서는 정확하게 표시되지만, 간혹 정상적으로 나오지 않는 환경이 있을 수 있습니다.

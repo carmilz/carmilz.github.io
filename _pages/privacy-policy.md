@@ -12,8 +12,9 @@ comments: false
 # 외부 웹 폰트 목록
 * Kosugi([Google Fonts](https://fonts.google.com) 이용)
 * [Font Awesome](https://fontawesome.com)
+* 본고딕(Source Han Sans, [Adobe Fonts](https://fonts.adobe.com) 이용)
 
-Montserrat와 Gentium Plus는 외부 웹 폰트가 아닌 [사이트 자체 저장소](https://github.com/carmilz/carmilz.github.io)를 이용하고 있으며, 본고딕과 Jigmo 등은 웹 폰트로 제공하고 있지 않습니다([글꼴에 관하여](/about-fonts) 참고).
+Montserrat와 Gentium Plus는 외부 웹 폰트가 아닌 [사이트 자체 저장소](https://github.com/carmilz/carmilz.github.io)를 이용하고 있으며, Jigmo는 웹 폰트로 제공하고 있지 않습니다([글꼴에 관하여](/about-fonts) 참고).
 
 # Privacy Badger
 <i class="fa-sharp fa-solid fa-link"></i> [홈페이지](https://privacybadger.org/)
