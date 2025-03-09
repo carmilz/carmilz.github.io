@@ -30,7 +30,9 @@ sitemap: true
 본고딕은 한자문화권 글꼴로서는 장점이 많은 글꼴이지만, 다운로드 및 설치하는 것이 복잡하다는 단점이 있습니다. 이 문단에서는 본고딕을 설치하는 방법을 알려드리겠습니다.
 
 아래 글도 참고할 만합니다.
+
 [Downloading Source Han Sans(GitHub, 영어)](https://github.com/adobe-fonts/source-han-sans/tree/release#downloading-source-han-sans)
+
 [나무위키](https://namu.wiki/w/%EB%B3%B8%EA%B3%A0%EB%94%95#s-6)
 
 본고딕은 글꼴 종류가 많은 편입니다. [다운로드 링크](https://github.com/adobe-fonts/source-han-sans/releases) 들어가 보시면 아시겠지만 다른 글꼴들과는 달리 그 수가 꽤나 많아요.
