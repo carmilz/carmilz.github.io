@@ -37,13 +37,8 @@ sitemap: true
 
 본고딕은 글꼴 종류가 많은 편입니다. [다운로드 링크](https://github.com/adobe-fonts/source-han-sans/releases) 들어가 보시면 아시겠지만 다른 글꼴들과는 달리 그 수가 꽤나 많아요.
 
-일단 [2.004R 버전(링크 클릭 시 바로 다운로드되므로 주의 바람)](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.004R.zip) 기준으로 말씀드리면 크게 OTF와 SubsetOTF로 나뉩니다.
+현재 최신 버전은 [2.005R 버전(링크 클릭 시 바로 다운로드되므로 주의 바람)](https://github.com/adobe-fonts/source-han-sans/archive/refs/tags/2.005R.zip)입니다.
 
-SubsetOTF는 해당 언어에 필요한 글자만을 지원하는 글꼴입니다. 이를테면 SubsetOTF의 KR은 한국어, JP는 일본어, TW은 대만 중국어, HK는 홍콩(광동어 등), CN은 대륙 중국어 표기에 필요한 글자만을 지원합니다.
-
-OTF는 SubsetOTF에 있는 글리프들을 합친 것인데 무슨 글꼴을 선택하느냐에 따라 자형의 우선 순위가 달라집니다. 예를 들어 OTF의 K(본고딕)는 한자문화권의 모든 글자를 지원하지만 한국식 자형을 우선시합니다.
-
-적절히 판단하셔서 SubsetOTF나 OTF 중 어느 하나를 선택하셔서 설치하시면 되겠습니다.
 
 # 한자 글꼴
 본 사이트에서는 각 나라에 맞는 한자 글꼴을 알맞게 출력하기 위해 본고딕을 활용하고 있습니다.
@@ -77,18 +72,18 @@ U+7562(마칠 필): <span lang="ko" style="font-size: x-large;">畢</span> <span
 예시: <span class="kasai" style="font-size: x-large;">迂</span>(에돌 우)
 
 ## 확장 한자
-이 문단은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참조했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자의 글꼴 관련 설명도 많이 있어 꽤 유용합니다.<br><img src="/assets/images/by-nc-sa.svg" alt="CC BY-NC-SA 3.0" title="CC BY-NC-SA 3.0">
+이 문단은 [백괴사전의 유니코드 특수 문자 도움말](https://uncyclopedia.kr/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%9C%A4%ED%9D%AC%EC%BD%94%EB%93%9C_%ED%8A%B9%EC%88%98_%EB%AC%B8%EC%9E%90)를 참고했습니다. 사실 여기 가보시면 한자뿐만 아니라 여러 문자의 글꼴 관련 설명도 많이 있어 꽤 유용합니다.<br><img src="/assets/images/by-nc-sa.svg" alt="CC BY-NC-SA 3.0" title="CC BY-NC-SA 3.0">
 {: .notice--info}
 
 유니코드에는 한자가 매우 많습니다. 진짜 많이요.
 
-그렇다 보니 기본 한자 영역 외에도 확장 영역에 추가된 한자들이 엄청 많습니다(유니코드 15.1 기준 확장 I까지 나옴).
+그렇다 보니 기본 한자 영역 외에도 확장 영역에 추가된 한자들이 엄청 많습니다(유니코드 17.0 기준 확장 J까지 나옴).
 
 이런 확장 한자들은 일반적인 글꼴들로는 일부만 표시되거나 아예 표시를 하지 못하기 때문에 전용 글꼴이 필요합니다.
 
-대표적으로는 하나조노 명조가 있었으나 이 글꼴은 유니코드 10.0까지의 한자밖에 표시를 못한다는 단점이 있고, 오랫동안 업데이트가 없었습니다(마지막 업데이트가 2017년 9월 경).
+대표적으로는 하나조노 명조가 있었으나 이 글꼴은 유니코드 10.0까지의 한자밖에 표시를 못한다는 단점이 있고, 오랫동안 업데이트가 없었습니다(마지막 업데이트가 2017년 9월경).
 
-그래서 하나조노의 대체품으로 최신 유니코드 15.1의 한자까지 지원하는 [Jigmo](https://kamichikoichi.github.io/jigmo/)라는 글꼴이 나왔습니다(최근 업데이트: 2023. 8. 16.).
+그래서 하나조노의 대체품으로 최신 유니코드(현재 버전 17.0)의 한자까지 지원하는 [Jigmo](https://kamichikoichi.github.io/jigmo/)라는 글꼴이 나왔습니다(최근 업데이트: 2025. 9. 12.).
 
 Jigmo는 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습니다.
 
@@ -98,7 +93,7 @@ Jigmo는 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습�
 
 * **[cutra_AppendingToHanaMin](https://ko.glyphwiki.org/wiki/Group:cutra_AppendingToHanaMin)**
 
-하나조노의 확장판 격인 글꼴입니다(확장 C~H, URO+, 확장 A+, 확장 B+, 확장 C+ 영역 지원).
+하나조노의 확장판격인 글꼴입니다(확장 C~H, URO+, 확장 A+, 확장 B+, 확장 C+ 영역 지원).
 
 * **[Plangothic](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)**
 
@@ -154,6 +149,10 @@ Jigmo는 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습�
 * **확장 I**
 
 <p class="exk" style="font-size: xx-large;">𮯰 𮰔 𮱏 𮱶 𮲐 𮲪 𮵏 𮷍</p>
+
+* **확장 J**
+
+<p class="exk" style="font-size: xx-large;">𲎰 𲎱 𲎲 𲎳 𲔀 𲔁 𲔂 𲔂</p>
 
 * **URO+**
 
