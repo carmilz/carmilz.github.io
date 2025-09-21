@@ -152,7 +152,7 @@ Jigmo는 용량이 매우 큰 편이기에 웹 폰트로 올리지는 않았습�
 
 * **확장 J**
 
-<p class="exk" style="font-size: xx-large;">𲎰 𲎱 𲎲 𲎳 𲔀 𲔁 𲔂 𲔂</p>
+<p class="exk" style="font-size: xx-large;">𲎰 𲎱 𲎲 𲎳 𲔀 𲔁 𲔂 𲔃</p>
 
 * **URO+**
 
